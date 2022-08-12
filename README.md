@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
    </p>
-    <div align="center" style="display: flex; width: 100%; justify-content: space-between;">
+    <div align="center" >
         <img height="150" style="margin-right: 40px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
     </div>
