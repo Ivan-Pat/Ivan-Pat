@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3 align="center" >I’m currently learning front-end web development</h3>
+ <h4 align="center" >I’m currently learning front-end web development</h4>
  
-   <p align='center' style="margin: 40px 0">
+   <p align='center' >
     <a href="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </a>
    </p>
     <div align="center" >
-        <img height="150" margin='40'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
     </div>
    
