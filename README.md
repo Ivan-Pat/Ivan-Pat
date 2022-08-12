@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://tlgg.ru/@Weweerosa">
+    <a href="https://t.me/+79516420486">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
    </p>
