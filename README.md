@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <p align="center" >I’m currently learning front-end web development</p>
-   <p style="width:100%; display:flex; justify-content:space-around;">
+ 
+   <p align='center'>
     <a href="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
