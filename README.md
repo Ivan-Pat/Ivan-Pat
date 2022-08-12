@@ -31,8 +31,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
    </p>
-    
+     
          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat)](https://github.com/anuraghazra/github-readme-stats)
          [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Pat)](https://github.com/anuraghazra/github-readme-stats)
-    
+   
 
