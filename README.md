@@ -36,7 +36,4 @@ Here are some ideas to get you started:
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
     </div>
-   <style>
- .network {margin: 40px;}
- </style>
 
