@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <h4 align="center" >I’m currently learning front-end web development</h4>
   <br>
    <p align='center' >
-    <a href="" margin="40">
+    <a href="" margin-left="40">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="">
