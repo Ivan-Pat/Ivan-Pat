@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </a>
    </p>
     <div align="center" >
-        <img height="150" style="margin-right: 40px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
+        <img height="150" margin='40'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
     </div>
    
