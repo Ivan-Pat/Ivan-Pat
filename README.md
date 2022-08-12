@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="">
-        <img  margin-left="40" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+        <img class="network" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK">
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
@@ -36,5 +36,7 @@ Here are some ideas to get you started:
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
     </div>
-   
+   <style>
+ .network {margin: 40px;}
+ </style>
 
