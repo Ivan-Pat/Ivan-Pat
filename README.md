@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center" >I’m currently learning front-end web development</p>
+ <h3 align="center" >I’m currently learning front-end web development</h3>
  
    <p align='center'>
     <a href="">
