@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <h4 align="center" >I’m currently learning front-end web development</h4>
- 
+  <br>
    <p align='center' >
     <a href="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
    </p>
+   <br>
     <div align="center" >
         <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat" alt="">
         <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ivan-Pat" alt="">
