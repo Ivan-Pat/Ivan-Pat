@@ -1,4 +1,5 @@
-                                                                    ### Hi there 👋 I'm Ivan 
+<h1 aligan="center">Hi there 👋 I'm Ivan </h1>
+
 
 <!--
 **Ivan-Pat/Ivan-Pat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                          I’m currently learning front-end web development
+## I’m currently learning front-end web development
