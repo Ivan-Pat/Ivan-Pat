@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <p align='center' >
     <a href="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a> <p></p>
+    </a> <span></span>
     <a href="">
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK">
     </a><i></i>
