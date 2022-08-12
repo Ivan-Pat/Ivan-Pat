@@ -18,15 +18,15 @@ Here are some ideas to get you started:
  <h4 align="center" >I’m currently learning front-end web development</h4>
   <br>
    <p align='center' >
-    <a href="">
+    <a href="" margin="40">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a> <span></span>
+    </a>
     <a href="">
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-    </a><i></i>
+    </a>
     <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a><i></i>
+    </a>
     <a href="">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
