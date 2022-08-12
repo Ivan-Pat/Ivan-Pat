@@ -18,3 +18,4 @@ Here are some ideas to get you started:
  <p align="center" >I’m currently learning front-end web development</p>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Pat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Pat)](https://github.com/anuraghazra/github-readme-stats)
