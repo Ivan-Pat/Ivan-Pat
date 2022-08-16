@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <a href="https://vk.com/id255342920">
         <img class="network" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK">
     </a>
-    <a href="">
+    <a href="https://linkedin.com/in/ivan-patrin-5211b1248">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
     <a href="https://t.me/+79516420486">
